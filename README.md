@@ -1,4 +1,19 @@
-# SAMAYAK – Women Safety & Domestic Violence Preventor
+# SAHAYAK – Women Safety & Domestic Violence Preventor
+
+## 🚀 How to Run the Project
+1. **Download & Extract**: Extract the ZIP file into a folder.  
+2. **Open CMD**: Navigate to that folder using Command Prompt (CMD).  
+3. **Install Dependencies**: Run the command  
+   ```sh
+   pip install
+   ```  
+4. **Start Development Server**: Run the command  
+   ```sh
+   pip run dev
+   ```  
+5. **Open Project**: Click the link shown in CMD to view the project in your browser.  
+
+---
 
 ## 🎥 Demo Video
 [▶️ Watch Demo Video](https://drive.google.com/file/d/1UqwAp9bJtG2hi73QJ_TEvq4S3kdiYpV3/view?usp=sharing)
@@ -9,7 +24,7 @@ Or click the image below:
 
 
 ## 1. Introduction
-Domestic violence and women’s safety remain critical social issues across the world. Many victims hesitate to report abuse due to fear, stigma, or lack of immediate support. **SAMAYAK** is a technology-driven solution designed to provide safety, support, and empowerment to women by integrating emergency assistance, discreet reporting, and access to mental health & legal resources.
+Domestic violence and women’s safety remain critical social issues across the world. Many victims hesitate to report abuse due to fear, stigma, or lack of immediate support. **SAHAYAK** is a technology-driven solution designed to provide safety, support, and empowerment to women by integrating emergency assistance, discreet reporting, and access to mental health & legal resources.
 
 ---
 
