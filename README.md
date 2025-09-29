@@ -5,9 +5,8 @@
 
 Or click the image below:
 
-[![Watch the video]([https://img.icons8.com/clouds/452/video.png](https://drive.google.com/file/d/1XR_FIXSMXdBeoMfkMdx4KrCvEHZ7odRH/view?usp=sharing))](https://drive.google.com/file/d/1UqwAp9bJtG2hi73QJ_TEvq4S3kdiYpV3/view?usp=sharing)
+[![Watch the video](https://img.icons8.com/clouds/452/video.png)](https://drive.google.com/file/d/1UqwAp9bJtG2hi73QJ_TEvq4S3kdiYpV3/view?usp=sharing)
 
----
 
 ## 1. Introduction
 Domestic violence and women’s safety remain critical social issues across the world. Many victims hesitate to report abuse due to fear, stigma, or lack of immediate support. **SAMAYAK** is a technology-driven solution designed to provide safety, support, and empowerment to women by integrating emergency assistance, discreet reporting, and access to mental health & legal resources.
