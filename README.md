@@ -4,9 +4,11 @@
 ### ▶️ Direct Link
 [Watch Demo Video](https://drive.google.com/file/d/1UqwAp9bJtG2hi73QJ_TEvq4S3kdiYpV3/view?usp=sharing)
 
-### ▶️ Embedded Player (may not work on GitHub repo view, but works on GitHub Pages/Markdown renderers)
-
+### ▶️ Embedded Player (works on GitHub Pages/Markdown renderers, may not work in repo view)
 <iframe src="https://drive.google.com/file/d/1UqwAp9bJtG2hi73QJ_TEvq4S3kdiYpV3/preview" width="640" height="360" allow="autoplay"></iframe>
+
+### ▶️ Thumbnail Fallback (clickable image link)
+[![Watch the video](https://img.icons8.com/clouds/452/video.png)](https://drive.google.com/file/d/1UqwAp9bJtG2hi73QJ_TEvq4S3kdiYpV3/view?usp=sharing)
 
 ---
 
