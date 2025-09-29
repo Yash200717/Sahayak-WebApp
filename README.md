@@ -1,14 +1,17 @@
-# SAMAYAK – Women Safety & Domestic Violence Preventor
+# SAHAYAK – Women Safety & Domestic Violence Preventor
 
 ## 🎥 Demo Video
-[![Watch the video]([https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://github.com/your-repo/WhatsApp%20Video%202025-09-28%20at%2016.28.25.mp4](https://drive.google.com/file/d/1UqwAp9bJtG2hi73QJ_TEvq4S3kdiYpV3/view?usp=sharing))
+### ▶️ Direct Link
+[Watch Demo Video](https://drive.google.com/file/d/1UqwAp9bJtG2hi73QJ_TEvq4S3kdiYpV3/view?usp=sharing)
 
-*(If GitHub doesn’t preview the video directly, download/play it from the link above.)*
+### ▶️ Embedded Player (may not work on GitHub repo view, but works on GitHub Pages/Markdown renderers)
+
+<iframe src="https://drive.google.com/file/d/1UqwAp9bJtG2hi73QJ_TEvq4S3kdiYpV3/preview" width="640" height="360" allow="autoplay"></iframe>
 
 ---
 
 ## 1. Introduction
-Domestic violence and women’s safety remain critical social issues across the world. Many victims hesitate to report abuse due to fear, stigma, or lack of immediate support. **SAMAYAK** is a technology-driven solution designed to provide safety, support, and empowerment to women by integrating emergency assistance, discreet reporting, and access to mental health & legal resources.
+Domestic violence and women’s safety remain critical social issues across the world. Many victims hesitate to report abuse due to fear, stigma, or lack of immediate support. **SAHAYAK** is a technology-driven solution designed to provide safety, support, and empowerment to women by integrating emergency assistance, discreet reporting, and access to mental health & legal resources.
 
 ---
 
